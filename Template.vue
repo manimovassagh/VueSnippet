@@ -13,9 +13,14 @@ export default {
    props: {
     modelValue: String,
   },
-  data() {
+   data() {
     return {
-      name: '',
+      name: 'Vishwas',
+      channel: 'Codevolution',
+      showPopup: false,
+      username: '',
+      friends: ['Chandler', 'Joey', 'Monica'],
+      activeTab: 'TabA',
     }
   },
    methods: {
