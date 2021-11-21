@@ -3,7 +3,7 @@
   <ComponentE />
 </template>
 
-<script>
+<script lang="ts">
 import importedComponentName from './ComponentE'
 export default {
   name: 'ComponentC',
