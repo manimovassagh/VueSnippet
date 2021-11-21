@@ -1,1 +1,1 @@
-# vueSnippet
+# VueSnippet
