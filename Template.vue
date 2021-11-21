@@ -4,7 +4,7 @@
 </template>
 
 <script lang="ts">
-import importedComponentName from './ComponentE'
+import importedComponentName from './AddressOfImported'
 export default {
   name: 'ComponentC',
   components: {
