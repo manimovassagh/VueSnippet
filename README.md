@@ -1,2 +1,0 @@
-# VueSnippet
-Vue Js BoilerPlate
